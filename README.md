@@ -6,7 +6,7 @@ Save the above script as app.py.
 
 Ensure you have gradio, whisper, and ffmpeg installed:
 
-pip install gradio whisper
+pip install gradio whisper\n
 sudo apt install ffmpeg
 
 
